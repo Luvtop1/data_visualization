@@ -1,4 +1,4 @@
-from cub.die import Die
+from die import Die
 
 import pygal
 
